@@ -1,0 +1,11 @@
+rouge1:#8f2f24
+rouge2:#641e16
+orange:#D35400
+marron1:#452b1c
+marron2:#2b1f13
+beige:#fef9e7
+
+
+https://www.sitepoint.com/building-a-filtering-component-with-css-animations-jquery/
+http://www.menucool.com/ui/responsive-image-grid-with-hover-effect
+https://www.louistiti.fr/tutoriel-html-javascript-css-menu-responsive-icone-hamburger/47
